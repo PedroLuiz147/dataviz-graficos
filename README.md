@@ -1,14 +1,5 @@
 # Data Visualization: gráficos de comparação e distribuição
 
-Boas-vindas a mais um curso de **visualização de dados** da Alura! 
-
-Esse Github foi produzido com muito carinho para você montar o seu portfólio com as atividades do curso e elaborar suas próprias hipóteses, testar as técnicas exploradas dentro do curso e também adicionar outras durante a leitura das documentações de bibliotecas de visualização de dados com a linguagem Python: **Matplotlib**, **Seaborn** e **Plotly**.
-
-O objetivo deste curso é auxiliar você a utilizar a linguagem Python na análise de dados por meio da agregação de recursos visuais, recorrendo a gráficos como ferramentas de exploração e apresentação dos dados ao seu público. É importante que você tenha um **conhecimento básico** das **bibliotecas de visualização** de Python, bem como das **bibliotecas de manipulação de dados** como **Pandas** e **Numpy**.
-
-## Introdução
-
-Neste curso, vamos construir um portfólio com as análises de duas bases de dados diferentes, explorando cada uma e respondendo aos questionamentos levantados em torno de seus dados. Todas as bases estão no formato CSV e podem ser acessadas por meio do Github.
 
 ## Projetos
 
@@ -86,12 +77,8 @@ Neste projeto, vamos explorar diversos gráficos de distrbuição dentre eles:
 
 ## Gráficos Produzidos
 
-Para verificar um resumo com os principais gráficos gerados ao longo curso clique nesse [link](https://github.com/alura-cursos/dataviz-graficos/blob/b962a59fd26aa9e0feb8eb964d08cda99d7d5780/Dataviz_Gr%C3%A1ficos_(gr%C3%A1ficos_produzidos).ipynb)
+
 
 ## Conclusões
 
-Esse curso teve como objetivo apresentar os diferentes tipos de visualização de dados e como escolher qual é o mais adequado para representar as análises de acordo com as perguntas e demandas requisitadas para o problema. Durante o curso, você aprendeu a criar gráficos de comparação e distribuição dos dados partindo do uso das bibliotecas mais utilizadas em Python, personalizar os gráficos e adicionar outros recursos visuais como anotações, destaques, legenda de dados e outras técnicas de visualização. 
-
-Ao final do curso, você será capaz de gerar visualizações personalizadas e voltadas ao tipo de público que você deseja.	Ainda exploraremos os outros subgrupos com mais visualizações e técnicas para apresentar seus dados a seu público.
-
-Sinta-se à vontade para fazer o fork desse projeto e construir o seu portfólio 😊
+Esse curso teve como objetivo apresentar os diferentes tipos de visualização de dados e como escolher qual é o mais adequado para representar as análises de acordo com as perguntas e demandas requisitadas para o problema.
