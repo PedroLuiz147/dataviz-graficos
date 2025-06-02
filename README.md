@@ -77,6 +77,40 @@ Neste projeto, vamos explorar diversos gráficos de distrbuição dentre eles:
 
 ## Gráficos Produzidos
 
+Gráficos de Comparação
+Gráfico de colunas
+Gráfico de colunas
+
+Gráfico de barras
+
+
+Gráfico de colunas empilhadas
+
+
+Gráfico de barras empilhadas
+
+
+Gráfico de linha
+
+
+Gráfico de Linhas
+
+
+Gráficos de Distribuição
+Histogramas e gráficos de densidade
+Histograma
+
+
+Gráfico de densidade
+
+
+Boxplot
+
+
+Violinplot
+
+
+Gráfico de dispersão
 
 
 ## Conclusões
